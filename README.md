@@ -10,7 +10,7 @@ Citation:
 
 > Al-Ubaydli, Omar, and McLaughlin, Patrick A. 2015. "RegData: A Numerical Database on Industry-Specific Regulations for All United States Industries and Federal Regulations, 1997–2012." _Regulation & Governance_ 11 (1): 109–23.
 
-You can try to adapt the script with the newer datasets.
+You can try to adapt the script with the newer datasets, as well as to the 4-digit industry codes.
 
 # What's included here
 
