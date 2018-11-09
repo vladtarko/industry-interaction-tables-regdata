@@ -4,7 +4,7 @@ This is an R script for generating all the interactions between (NASCIS 3-digit)
 
 # Requirements
 
-You need to download the `metadata.csv` and the `industry_3digit.csv` from RegData 2.2: <https://quantgov.org/regdata-us/>. These files are too large to be uploaded here.
+You need to download the `metadata.csv` and the `industry_3digit.csv` from RegData 2.2: <https://quantgov.org/regdata-us/>.
 
 Citation:
 
