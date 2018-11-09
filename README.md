@@ -15,7 +15,7 @@ You can try to adapt the script with the newer datasets.
 # What's included here
 
 - the R script: `generate-tables.r`
-- the NASCIS industry codes: `NAICS2017.csv`
+- the NAICS industry codes: `NAICS2017.csv`
 - the resulting tables created by this script: `tables-3digit-industry.zip`. Inside the zip file:
     - an interactive table: `__table.html`
     - a simple aggregation of all the tables: `__table_simple.html`
