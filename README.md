@@ -25,7 +25,7 @@ The NAICS 2017 codes were downloaded from <https://www.census.gov/eos/www/naics/
 
 # Example:
 
-Oil and Gas Extraction is regulated in the United States by the following agencies (cummulative restrictions from 1970 to 2014) :
+**Oil and Gas Extraction** is regulated in the United States by the following agencies (cummulative restrictions from 1970 to 2014):
 
 | agency | 	restrictions | 
 |------|-------------|
