@@ -26,7 +26,7 @@ You can try to adapt the script with the newer datasets.
 Oil and Gas Extraction is regulated by the following agencies:(cummulative restrictions from 1970 to 2014) 
 
 | agency | 	restrictions | 
-|:------| ------------- :|
+|------|-------------|
 | Bureau of Export Administration, Department of Commerce | 1084 |
 | Bureau of Indian Affairs, Department of the Interior | 33392 |
 | Bureau of Land Management, Department of the Interior | 14784 |
