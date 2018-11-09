@@ -23,7 +23,7 @@ You can try to adapt the script with the newer datasets.
 
 # Example:
 
-Oil and Gas Extraction is regulated by the following agencies:(cummulative restrictions from 1970 to 2014) 
+Oil and Gas Extraction is regulated in the United States by the following agencies (cummulative restrictions from 1970 to 2014) :
 
 | agency | 	restrictions | 
 |------|-------------|
