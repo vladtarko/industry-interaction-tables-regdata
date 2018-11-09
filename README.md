@@ -1,4 +1,4 @@
-# industry-interaction-tables-regdata
+# The regulation of industry in United States
 
 This is an R script for generating all the interactions between (NASCIS 3-digit) industries and the US regulatory agencies. The tables are based on the RegData 2.2 dataset.
 
